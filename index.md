@@ -1,0 +1,163 @@
+# RULES ARE SUBJECT TO CHANGE
+### See someone break the rules? type @ along with your message in chat to tell staff!
+### (example:      @ bigmoron killed me for no reason.)
+
+
+# General Rules
+
+1. No matter the circumstances, staff will always have the final say. Our word is law.
+2. Hate speech in all forms will not be tolerated. 
+3. Be respectful to staff and players.
+4. Real life threats of ANY KIND will be met with a permanent ban.
+5. Do not spam anything unless specified by your job.
+6. Avoiding bans using any method is not allowed and will increase the time of ban for all accounts involved.
+7. Scamming of any kind will not be tolerated.
+8. Lying in a sit will result in severely increased ban time.
+9. No one is a lawyer, do not base sits on technicalities and do not call sits for someone not following the exact lettering of a rule.
+10. Sexually explicit, graphic, and illegal content in sprays or advertising boards is not allowed, illustrated or otherwise. (genetalia, female nipples, gore and feces)
+11. Calling multiple pointless sits or spamming staff is a bannable offense.
+12. You may not have KOS signs.
+
+# RP Rules
+
+1. Do not RDM. (kill someone without reason)
+3. If none of the above situations are met, killing will be considered RDM.
+4. Do not prop minge. (using props for anything other than building.)
+5. Using any info from your past life to kill/arrest/warrent or in any way effect how you use your next life will be considered metagaming. (Unless defending a raid)
+6. Losing sight of someone for more than 10 seconds will be considered a clean slate and any crimes or demotable actions will be forgotten.
+7. If you would like someone to leave the area they are in or your base, you must give a yelled 5 second warning that includes the words "leave in 5 seconds" and "you will be killed"
+   - Example: /y LEAVE IN 5 SECONDS OR YOU WILL BE KILLED!
+8. Warning someone to leave is considered verbal assault and you may be killed for giving the warning by anyone who hears it.
+9. Killing the Mayor within the grace period is not allowed.
+- Valid reasons to kill someone include,
+    1. Job that has implicit reason to KOS, dictated by Job description.
+    2. Damaging you
+    3. Damaging your property
+    4. Initiating a raid through lockpicking/keypadcracking/C4
+    5. Stealing your things
+    6. Being mugged
+    7. Stunstick/arrest stick being swung at you. (must provide video proof if arrest stick does not make contact)
+    8. Anything being thrown at you (must have video proof if object thrown did not damage you)
+    9. Atempted to kidnap you, or have kidnapped you in your current life.
+    10. Atempted to free or steal your kidnaped person(s).
+    11. Someone gave a 5 sec warning that was not directed at a particular player
+
+# BASING RULES
+
+1. "Building" textscreens will be respected.
+    1. Do not kill/minge/distract or otherwise bother someone with a building textscreen on their property.
+    2. "Building" textscreens must be maximum size, on every entrance to a property, a color that stands out, and must say nothing other than the word "Building"
+    3. Hitmen may ignore building signs to complete a hit, but not raid.
+    4. While building you may not have any valuables of any kind. Only props and keypads are allowed.
+2. "RP base" textscreens will be respected.
+    1. RP bases may not have valuables of any kind. Only props and keypads are allowed.
+    2. "RP base" textscreens must be maximum size, on every entrance to a property, a color that stands out, and must say nothing other than the word "RP Base"
+    3. RP bases can not be lockpicked, keypad cracked, or otherwise raided in any way by anyone.
+    4. Hitmen may ignore "RP base" signs to complete a hit, but not raid.
+3. You may not place a prop against or inside of a locked door.
+4. Long and pointless textscreens are not allowed.
+5. Raids can not last longer than 10 minutes
+6. Once you raid a base, you may not raid the same base again for 20 minutes
+7. Once a raid is initiated, it is considered a "raid zone" and anyone in the base, or within the width of a sidewalk of the base, is considered KOS.
+8. Once you leave the raidzone, you may not re-enter it. (with some flexibility to chase the base owner down, move to a different side of the base, ect.)
+9. Defenders may return to the raid zone.
+10. Using your own props in any way to fly/climb/surf to get in or on someones base is forbidden. (Excluding the breakable vent in sewers)
+11. Locking doors and spawning props during a raid is forbidden. 
+12. Door spamming and body blocking is forbidden on all doors.
+13. Bases only need 1 entrance and exit. Propblocking all other means of entry is allowed.
+14. You must be able to walk from the front to the back of a base without crouching or jumping.
+15. There must be one path through a base with no dead ends.
+16. There may only be 3 fading doors per base, and only 6 keypads. (Unless specified.)
+17. You may not block any public part of the map with building. (Unless specified.)
+18. Buying property and not utilizing it will result in it being forcefully sold. Repeat offenses could result in bans.
+
+# RP RELATION
+### RP relation means you may help defend your fellow players if they are attacked.
+#### You are RP related if...
+
+1. You have a custom job name that matches the people you are with
+2. You co-own a base door. (only valid if IN or NEAR the base.)
+3. It is stated in your job description.
+4. You are in the process of selling/buying something from someone.
+
+
+
+# DEMOTING
+### Demoting someone will remove them from their job and set them as citizen
+#### You may demote non-government jobs if they are Business classes refusing to sell their goods.
+##### You may demote a goverment job if...
+
+1. They are engaged in corruption (bribes, non-firearm weapons, money printers.)
+2. Freeing prisoners without the consent of the mayor or police chief.
+3. Not following laws
+4. Ignoring illegal activities
+
+# CLASS RULES
+
+### CONTRACTOR
+1. May build super bases. 
+2. Must maintain a textscreen of allowed people in base, both outside and inside the main entrance to the superbase. Must be placed prior to building.
+3. May "evict" people from superbase at will. These people must be given 10 minutes to leave.
+4. May not block off the tunnels connecting to spawn, the luxury district, the beach district, downtown, or the three small districts. (ask a staff member if you are unsure where these are.)
+5. Super bases are allowed in forbidden areas as long as they dont connect more than 3 buildings, or are an apartment building.
+6. You may not forcefully remove or evict people who were already basing inside the megabase prior to construction. They must be added to the texscreen prior to building.
+7. May not have "Building" signs. propblock lasting longer than 1 minute is a demotable offense.
+
+
+### DJ
+1. May not play sounds lasting longer than 10 seconds. (Excluding music.)
+2. May not earrape.
+3. May not make constant sound if not playing music
+4. Must respect the majority of other's wishes to leave the area, and the wishes of residents of buildings nearby.
+
+
+### POLICE
+1. Police answer to the mayor and police chief.
+2. Police may not build anywhere without the police chiefs permission. (or Mayor if there is no police chief.)
+3. Police can be demoted for going in jail or mayors office without permission.
+4. Police can only warrent someone if they SEE blackmarket items, printers, cooking equipment, drug use, ect. (Meth lab pollution and tube are exempt.) 
+5. Police can also warrent if the person is already wanted for a previous crime, and you saw them enter their base.
+6. Police can only raid bases of people they have warrented.
+7. Police are required to help defend PD if the mayor adverts the PD is being raided.
+8. Police are not allowed to warrent based on sounds.
+- You may arrest someone for the following reasons...
+    1. Holding a blackmarket item.
+    2. In possession of illegal items. (Dictated by laws)
+    3. Holding a hostage
+    4. Hurting you or a police officer with a non-firearm
+    5. Holding a gun without a license.
+    6. Non government job who has walked beyond doors that require keycards in PD.
+    7. Prank 911 calls.
+- You may kill someone for the following reasons...
+    1. Hurting you or a fellow police officer with a firearm or other obviously lethal method.
+    2. They are raiding a base or are raiding PD
+
+
+
+### POLICE CHIEF
+1. **ALL PREVIOUS POLICE RULES APPLY**
+2. May build in PD with mayors permission. (All building rules apply, may not have more than 3 keypads.)
+3. Neither you nor police are allowed to build anything in the PD lobby.
+4. Are allowed to Unarrest prisoners with mayor permission.
+5. May give orders to police officers.
+
+### MAYOR
+1. May build in your office. (All building rules apply, may not have more than 3 keypads.)
+2. May demote Police or Police chief for being in your office without permission.
+3. May demote Politicians for any reason. 
+4. May not set laws that outlaw a class or a classes legal items. (ex: "pianos are illegal")
+5. May not make illegal any function of chat.
+6. May be demoted for having any non government class in your office.
+7. Total fading doors in PD must not exceed 6. (The Mayor, and the Police Chief combined)
+
+### POLITICIAN
+1. May help build in Mayors office.
+2. May be demoted for any reason. (but only by Mayor.)
+
+### HITMAN
+1. May kill people with building signs and RP base signs IF they have a hit.
+2. May raid bases ONLY if you can see the name on the door or superbase textscreen.
+3. Hits must be through the hit system. (someone dropping money and telling you to go kill someone is not valid.)
+
+### DRUG COOKER
+1. May not place polution tube in any way that prohibits access to public parts of the map
